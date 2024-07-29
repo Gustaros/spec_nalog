@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from tax_const import *
-import numpy as np
 
 
 st.title("Специальные налоговые режимы")
